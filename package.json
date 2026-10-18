@@ -1,0 +1,8 @@
+{
+  "name": "awesome-icons",
+  "private": true,
+  "type": "module",
+  "scripts": { "gera": "node gera.mjs" },
+  "devDependencies": { "playwright-core": "^1.48.0" },
+  "license": "MIT"
+}
